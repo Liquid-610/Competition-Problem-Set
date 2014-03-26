@@ -1,0 +1,5 @@
+C:\Users\eahscs\AppData\Local\Temporary Projects\LETS START\bin\Debug\LETS START.exe
+C:\Users\eahscs\AppData\Local\Temporary Projects\LETS START\bin\Debug\LETS START.pdb
+C:\Users\eahscs\AppData\Local\Temporary Projects\LETS START\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\AppData\Local\Temporary Projects\LETS START\obj\x86\Debug\LETS START.exe
+C:\Users\eahscs\AppData\Local\Temporary Projects\LETS START\obj\x86\Debug\LETS START.pdb
