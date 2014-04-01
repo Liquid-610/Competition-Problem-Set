@@ -1,0 +1,7 @@
+C:\Users\eahscs\AppData\Local\Temporary Projects\Can you find the treasure\bin\Debug\Can you find the treasure.exe
+C:\Users\eahscs\AppData\Local\Temporary Projects\Can you find the treasure\bin\Debug\Can you find the treasure.pdb
+C:\Users\eahscs\AppData\Local\Temporary Projects\Can you find the treasure\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\AppData\Local\Temporary Projects\Can you find the treasure\obj\x86\Debug\Can you find the treasure.exe
+C:\Users\eahscs\AppData\Local\Temporary Projects\Can you find the treasure\obj\x86\Debug\Can you find the treasure.pdb
+C:\Users\eahscs\Documents\GitHub\Competition-Problem-Set\Can you find the treasure\Can you find the treasure\obj\x86\Debug\Can you find the treasure.exe
+C:\Users\eahscs\Documents\GitHub\Competition-Problem-Set\Can you find the treasure\Can you find the treasure\obj\x86\Debug\Can you find the treasure.pdb
