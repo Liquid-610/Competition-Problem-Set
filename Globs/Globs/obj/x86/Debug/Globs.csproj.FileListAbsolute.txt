@@ -1,0 +1,7 @@
+C:\Users\eahscs\AppData\Local\Temporary Projects\Globs\bin\Debug\Globs.exe
+C:\Users\eahscs\AppData\Local\Temporary Projects\Globs\bin\Debug\Globs.pdb
+C:\Users\eahscs\AppData\Local\Temporary Projects\Globs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\AppData\Local\Temporary Projects\Globs\obj\x86\Debug\Globs.exe
+C:\Users\eahscs\AppData\Local\Temporary Projects\Globs\obj\x86\Debug\Globs.pdb
+C:\Users\eahscs\Documents\GitHub\Competition-Problem-Set\Globs\Globs\obj\x86\Debug\Globs.exe
+C:\Users\eahscs\Documents\GitHub\Competition-Problem-Set\Globs\Globs\obj\x86\Debug\Globs.pdb
